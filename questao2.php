@@ -1,4 +1,8 @@
 <pre>
+Crie uma função recursiva para descobrir o menor número inteiro divisível por 2, 3 e 10 ao mesmo tempo. Quando encontrá-lo, imprima-o na tela.
+<hr>
+Resposta:
+
 <?php
 
 
